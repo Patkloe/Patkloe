@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patkloe
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning deeply Javascript
+- 🌱 I’m currently learning deeply Javascript,Python
 - 💞️ I’m looking to collaborate on customers satisfaction
 - 📫 How to reach me through my Resume attached on my profile
 
